@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Firebase-GoogleAC-Authentication</string>
+    <string name="welcome_to_home_page">Welcome To Home Page</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
 </resources>
