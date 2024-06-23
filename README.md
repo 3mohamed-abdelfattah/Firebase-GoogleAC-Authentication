@@ -43,12 +43,10 @@ Here are some screenshots showcasing the implementation of Firebase in the app:
 
 <img src="https://github.com/3mohamed-abdelfattah/Firebase-GoogleAC-Authentication/assets/142848460/98f75056-3378-49bf-a0c9-1c29e131a6cf" alt="image" width="300"/>
 
-<img src="" alt="image"/>
-
-
 ## Resources
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [Firebase Android SDK](https://firebase.google.com/docs/android/setup)
+- [Firebase Google Auth Documentation](https://firebase.google.com/docs/auth/android/google-signin)
 - [Firebase GitHub Google Auth Repo](https://github.com/firebase/snippets-android/blob/e239681bd10202a24a8c0cf8879da13fb625ac76/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/GoogleSignInActivity.kt#L43-L44)
 - [GitHub Aother Google Auth Repo](https://github.com/mohamedtamer0/FirebaseAuth-GoogleAccount/blob/master/app/src/main/java/com/example/firebaseui/MainActivity.kt)
 
