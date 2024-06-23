@@ -43,6 +43,9 @@ Here are some screenshots showcasing the implementation of Firebase in the app:
 
 <img src="https://github.com/3mohamed-abdelfattah/Firebase-GoogleAC-Authentication/assets/142848460/98f75056-3378-49bf-a0c9-1c29e131a6cf" alt="image" width="300"/>
 
+<img src="https://github.com/3mohamed-abdelfattah/Firebase-GoogleAC-Authentication/assets/142848460/60f46f2e-f656-4ebd-9f3e-43fe197f4b2a" alt="image"/>
+
+
 ## Resources
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [Firebase Android SDK](https://firebase.google.com/docs/android/setup)
